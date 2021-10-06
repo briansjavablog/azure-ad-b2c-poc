@@ -5,3 +5,8 @@
   a.title {
     color: white;
   }
+
+.mat-toolbar.mat-primary {
+    background: #ba3c27;
+    color: #fff;
+}
